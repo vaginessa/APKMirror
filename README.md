@@ -2,13 +2,17 @@
 
 I decided to continue developing this app myself, as vojta-horanek has stopped development on it.
 
-[![Build Status](https://travis-ci.org/TacoTheDank/APKMirror.svg?branch=master)](https://travis-ci.org/TacoTheDank/APKMirror)
+[![Build Status](https://travis-ci.org/TacoTheDank/APKMirror.svg)](https://travis-ci.org/TacoTheDank/APKMirror)
 
 An unofficial apkmirror client/web application (forked from the original, which is now abandoned).
 
-Anyone may contribute (I need better translations lol, and better code review because I don't actually know much about Android development). Make a pull request with changes to contribute I guess...
+# Develop branch: Any commits and pull requests go to THIS branch, as it is the debug branch for new things before they can be considered stable.
+# Master branch: Stable code is here. Rebase merges from Develop to Master will be fairly frequent.
+## This setup will probably change at some point to be more understandable, but until then...um...~~fuck you lmao~~
 
-i honestly have no clue what the hell im doing and cant even figure out git please help me
+Anyone may contribute (I need better translations, and better code review because I don't actually know much about Android development). Make a pull request with changes to contribute I guess...
+
+i honestly have no clue what the hell im doing and can hardly figure out git please help me
 
 Original app by vojta-horanek: https://github.com/vojta-horanek/APKMirror
 
