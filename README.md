@@ -1,23 +1,35 @@
 # APKMirror
-# Now abandoned, please don't report issues or make pull requests, I will ignore them
 
-An unofficial apkmirror client/web application
+I decided to continue developing this app myself, as vojta-horanek has stopped development on it.
+
+[![Build Status](https://travis-ci.org/TacoTheDank/APKMirror.svg?branch=master)](https://travis-ci.org/TacoTheDank/APKMirror)
+
+An unofficial apkmirror client/web application (forked from the original, which is now abandoned).
+
+Anyone may contribute (I need better translations lol, and better code review because I don't actually know much about Android development). Make a pull request with changes to contribute I guess...
+
+i honestly have no clue what the hell im doing and cant even figure out git please help me
+
+Original app by vojta-horanek: https://github.com/vojta-horanek/APKMirror
+
+The last version (3.5) from vojta-horanek can be found here at XDA Labs: https://labs.xda-developers.com/store/app/cf.vojtechh.apkmirror
 
 Features:
 
-Quick loading (for the most part),
-Custom download managers,
-Clean material design,
-Small apk size
+    Quick loading (for the most part)
+    Custom download managers
+    Clean material design
+    Small-ish APK size (could be smaller tbh)
 
 <b>Screenshots:</b>
 
-<img src="https://github.com/vojta-horanek/APKMirror/raw/master/screenshots/5.png" width="25%" height=25%/><img src="https://github.com/vojta-horanek/APKMirror/raw/master/screenshots/4.png" width="25%" height=25%/><img src="https://github.com/vojta-horanek/APKMirror/raw/master/screenshots/3.png" width="25%" height=25%/><img src="https://github.com/vojta-horanek/APKMirror/raw/master/screenshots/1.png" width="25%" height=25%/>
+Currently getting replacement screenshots for a more accurate representation.
 
-
+# License
+This application is under the GNU General Public License, as licensed by the original creator vojta-horanek.
 ```
 APKMirror web app/client
-    Copyright (C) 2017  Vojtěch Hořánek
+    Copyright (C) 2017 Vojtěch Hořánek
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
