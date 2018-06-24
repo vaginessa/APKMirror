@@ -6,8 +6,8 @@ I decided to continue developing this app myself, as vojta-horanek has stopped d
 
 An unofficial apkmirror client/web application (forked from the original, which is now abandoned).
 
-# Develop branch: Any commits and pull requests go to THIS branch, as it is the debug branch for new things before they can be considered stable.
-# Master branch: Stable code is here. Rebase merges from Develop to Master will be fairly frequent.
+# Develop branch: Any commits and pull requests you make should go to THIS branch, as it is the debug branch for new things before they can be considered stable.
+# Master branch: Stable code is here. Rebase merges from Develop to Master will be fairly frequent. APK builds will be off this branch.
 ## This setup will probably change at some point to be more understandable, but until then...um...~~fuck you lmao~~
 
 Anyone may contribute (I need better translations, and better code review because I don't actually know much about Android development). Make a pull request with changes to contribute I guess...
