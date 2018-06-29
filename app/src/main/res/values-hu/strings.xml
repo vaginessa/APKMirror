@@ -32,9 +32,8 @@
     <string name="tim_thx">Német forditás</string>
     <string name="berkantkz_thx">Török fordítás</string>
     <string name="hbbxmjbb_thx">Kinai fordítás</string>
-    <string name="nightstorm8x">Vietnámi fordítás</string>
-    <string name="fonodosebas">Spanyol fordítás</string>
-    <string name="josefill">Magyar forditás</string>
+    <string name="nightstorm8x_thx">Vietnámi fordítás</string>
+    <string name="josefill_thx">Magyar forditás</string>
 
     <string name="github_summ">Érdekli, hogyan működik ez az alkalmazás?</string>
     <string name="lib_summ">A nyílt forráskódú könyvtárak megtekintése ebben az alkalmazásban</string>

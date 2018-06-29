@@ -34,6 +34,4 @@
     <string name="external_download_pref">استخدام تطبيق تنزيل خارجي</string>
     <string name="runtime_error_dialog_content">حدث خطأ وقت التشغيل، تأكد من تثبيت حزمة webview.</string>
     <string name="copy_log">نسح سجل الاخطاء</string>
-
 </resources>
-

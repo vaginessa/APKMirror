@@ -32,11 +32,9 @@
     <string name="tim_thx">Per la traduzione in Tedesco</string>
     <string name="berkantkz_thx">Per la traduzione in Turco</string>
     <string name="hbbxmjbb_thx">Per la traduzione in Cinese</string>
-    <string name="nightstorm8x">Per la traduzione Vietnamita</string>
-    <string name="fonodosebas">Per traduzione in Spagnolo</string>
-    <string name="josefill">Per la traduzione Ungherese</string>
-    <string name="vladandroidgamer">Per la traduzione in Russo</string>
-    <string name="xx6600xx">Per la traduzione Arabo</string>
+    <string name="nightstorm8x_thx">Per la traduzione Vietnamita</string>
+    <string name="josefill_thx">Per la traduzione Ungherese</string>
+    <string name="xx6600xx_thx">Per la traduzione Arabo</string>
 
     <string name="github_summ">Ti interessa come funziona questa applicazione?</string>
     <string name="lib_summ">Mostra le librerie opensource utilizzati in questa applicazione</string>
@@ -49,4 +47,3 @@
     <string name="copy_log">Copia log</string>
 
 </resources>
-

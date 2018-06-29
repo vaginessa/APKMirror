@@ -1,6 +1,6 @@
 # Add project specific ProGuard rules here.
 # By default, the flags in this file are appended to flags specified
-# in /home/vojta/.android/Sdk/tools/proguard/proguard-android.txt
+# in /Users/John Tyler Metzger/.android/Sdk/tools/proguard/proguard-android.txt
 # You can edit the include path and order by changing the proguardFiles
 # directive in build.gradle.
 #
@@ -27,4 +27,3 @@
 -keep class * extends android.webkit.WebChromeClient { *; }
 -dontwarn im.delight.android.webview.**
 -keeppackagenames org.jsoup.nodes
-

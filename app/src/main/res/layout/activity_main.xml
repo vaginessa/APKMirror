@@ -5,7 +5,7 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="cf.vojtechh.apkmirror.activities.MainActivity">
+    tools:context="taco.apkmirror.activities.MainActivity">
 
 
     <com.roughike.bottombar.BottomBar
@@ -125,7 +125,7 @@
 
         <fragment
             android:id="@+id/settings_fragment_main"
-            android:name="cf.vojtechh.apkmirror.fragments.PreferencesFragment"
+            android:name="taco.apkmirror.fragments.PreferencesFragment"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_below="@id/settings_toolbar"

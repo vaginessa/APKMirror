@@ -7,8 +7,8 @@
         android:shortcutShortLabel="@string/upload">
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetClass="cf.vojtechh.apkmirror.activities.MainActivity"
-            android:targetPackage="cf.vojtechh.apkmirror">
+            android:targetClass="taco.apkmirror.activities.MainActivity"
+            android:targetPackage="taco.apkmirror">
 
             <extra
                 android:name="url"
@@ -24,8 +24,8 @@
         android:shortcutShortLabel="@string/search">
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetClass="cf.vojtechh.apkmirror.activities.SearchActivity"
-            android:targetPackage="cf.vojtechh.apkmirror">
+            android:targetClass="taco.apkmirror.activities.SearchActivity"
+            android:targetPackage="taco.apkmirror">
 
 
         </intent>
@@ -38,8 +38,8 @@
         android:shortcutShortLabel="@string/settings">
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetClass="cf.vojtechh.apkmirror.activities.MainActivity"
-            android:targetPackage="cf.vojtechh.apkmirror">
+            android:targetClass="taco.apkmirror.activities.MainActivity"
+            android:targetPackage="taco.apkmirror">
 
             <extra
                 android:name="url"

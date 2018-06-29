@@ -74,19 +74,19 @@
         android:summary="@string/hbbxmjbb_thx"
         android:title="io_gh0st" />
     <Preference
-        android:summary="@string/nightstorm8x"
+        android:summary="@string/nightstorm8x_thx"
         android:title="nightstorm8x" />
     <Preference
-        android:summary="@string/fonodosebas"
+        android:summary="@string/fonodosebas_thx"
         android:title="FonoDoSebas" />
     <Preference
-        android:summary="@string/josefill"
+        android:summary="@string/josefill_thx"
         android:title="József Illés" />
     <Preference
-        android:summary="@string/xx6600xx"
+        android:summary="@string/xx6600xx_thx"
         android:title="xx6600xx" />
     <Preference
-        android:summary="@string/vladandroidgamer"
+        android:summary="@string/vladandroidgamer_thx"
         android:title="VladAndroidGamer" />
     <Preference
         android:summary="@string/radeox_thx"

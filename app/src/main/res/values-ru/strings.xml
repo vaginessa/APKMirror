@@ -32,11 +32,9 @@
     <string name="tim_thx">За немецкий перевод</string>
     <string name="berkantkz_thx">За перевод на турецкий язык</string>
     <string name="hbbxmjbb_thx">За китайский перевод</string>
-    <string name="nightstorm8x">За вьетнамский перевод</string>
-    <string name="fonodosebas">За испанский перевод</string>
-    <string name="josefill">За перевод на венгерский язык</string>
-    <string name="vladandroidgamer">За перевод на русский язык</string>
-    <string name="xx6600xx">За перевод на арабский язык</string>
+    <string name="nightstorm8x_thx">За вьетнамский перевод</string>
+    <string name="josefill_thx">За перевод на венгерский язык</string>
+    <string name="xx6600xx_thx">За перевод на арабский язык</string>
 
     <string name="github_summ">Заинтересован как работает это приложение?</string>
     <string name="lib_summ">Посмотреть какие библиотеки с открытым исходным кодом используются в этом приложении</string>
@@ -49,4 +47,3 @@
     <string name="copy_log">Скопировать журнал</string>
 
 </resources>
-
