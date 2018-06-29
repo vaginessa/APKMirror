@@ -8,7 +8,7 @@ An unofficial apkmirror client/web application (forked from the original, which 
 
 Anyone may contribute (I need better translations, and better code review because I don't actually know much about Android development). Make a pull request with changes to contribute I guess...
 
-i honestly have no clue what the hell im doing and can hardly figure out git please help me
+i honestly have no clue what the hell im doing lol
 
 Original app by vojta-horanek: https://github.com/vojta-horanek/APKMirror
 
